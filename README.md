@@ -1,4 +1,2 @@
-# fake-pocket
-self-implemented pocket
-
-Guest what, I can use Git much smoothly now!
+# bocket
+a self-implemented parody of Pocket

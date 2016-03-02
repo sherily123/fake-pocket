@@ -1,0 +1,15 @@
+{
+    "name": "bocket",
+    "version": "1.0",
+    "description": "Simple parody of pocket",
+    "icons": {
+        "128": "icon-128.png"
+    },
+    "background": {},
+    "permissions": [],
+    "browser_action": {
+        "default_title": "",
+        "default_icon": "icon-128.png",
+        "default_popup": "popup.html"
+    }
+}
